@@ -1,4 +1,4 @@
-# Listas são um dos 4 tipos de dados internos do Python
+# Listas
 # São ordenadas; permite duplicatas; indexadas; mutáveis; permite elementos variados
 
 
